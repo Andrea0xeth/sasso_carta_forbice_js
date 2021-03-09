@@ -1,0 +1,94 @@
+Si richiede di sviluppare un programma per giocare a morra cinese
+ (sasso, carta e forbice) contro il computer.
+
+
+I tipici simboli del gioco sono:
+
+1 = carta
+
+2 = forbici
+
+3 = sasso
+
+ 
+
+Il giocatore immette il simbolo che vuole utilizzare
+
+Il simbolo giocato dal PC viene generato in maniera casuale.
+
+
+
+Si confrontano i due simboli giocati e si dichiara il vincitore in 
+base alle tipiche regole del gioco:
+
+• carta vs forbici => vince forbici
+
+• carta vs sasso => vince carta
+
+• forbici vs sasso => vince sasso
+
+• se i due simboli sono uguali, nessuno vince
+
+
+
+
+
+
+
+ 
+
+Si richiede inoltre di:
+
+* implementare una storicizzazione dei risultati delle partite p
+recedentemente eseguite in maniera persistente
+
+ 
+
+
+
+Il programma deve includere le seguenti componenti:
+
+* logica operativa delle interazioni di gioco
+
+* interfaccia grafica
+
+* salvataggio delle interazioni svolte dal giocatore e dal pc per 
+ogni singola partita
+
+ 
+
+
+
+L'obiettivo del challenge è quello di valutare le tue skills di programmazione, 
+nello specifico:
+
+* Modalità di risoluzione algoritmica del problema proposto
+
+* Progettazione del software
+
+* Ordine e logica di programmazione
+
+
+
+ 
+
+E’ preferibile (ma non discriminante), l'utilizzo di soluzioni aderenti 
+alle skills tecnologiche richieste per la posizione oggetto del colloquio.
+
+Ad Esempio:
+
+* Utilizzo di javascript
+
+* Realizzazione della logica operativa su Smart Contract Ethereum
+
+ 
+
+L'elaborato svolto deve essere inviato rispondendo a questa mail, entro e 
+non oltre le ore 10 del giorno 12 Marzo.
+
+ 
+
+Per qualsiasi dubbio relativo alla consegna, puoi rispondere a questa email.
+
+ 
+
